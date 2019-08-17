@@ -1,4 +1,5 @@
 //my first actual, independent app!  Yay!
+//Shelley Doty 08172019 EC, CA
 
 public class MyNextApp {
     public static void main (String[] args) {
