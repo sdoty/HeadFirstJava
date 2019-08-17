@@ -1,3 +1,5 @@
+//my first actual, independent app!  Yay!
+
 public class MyNextApp {
     public static void main (String[] args) {
 	
